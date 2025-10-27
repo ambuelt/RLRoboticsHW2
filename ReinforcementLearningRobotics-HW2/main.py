@@ -174,7 +174,7 @@ def main():
     pen = -1                # Value in penalty state
     
     # Test Parametric Sweeps (can turn on/off so it won't run that long)
-    if 0:
+    if 1:
         
         # Parameters for Parametric Sweeps
         lr_ = [0.1, 0.3, 0.8]
