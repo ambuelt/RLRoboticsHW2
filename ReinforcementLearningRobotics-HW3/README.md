@@ -1,5 +1,5 @@
 # ASU EEE 598 - Reinforcement Learning in Robotics
-# Homework 2
+# Homework 3
 
 Run the project with Python.  
 Requires **numpy** and **matplotlib** and **PyTorch**.
